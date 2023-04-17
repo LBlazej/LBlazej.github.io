@@ -1,0 +1,32 @@
+h1 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 40pt;
+	text-align: center;
+	padding: 15px;
+}
+
+p {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20pt;
+	text-align: center;
+	padding: 5px;
+}
+
+.flex-container {
+	display: flex;
+    flex-wrap: wrap;
+	justify-content: center;
+	
+ }
+
+.container {
+	display: flex;
+	margin: 20px;
+	padding: 20px;
+	box-shadow: 7px 7px 7px 7px hsla(0,0%,85%,1);;
+}
+
+ .container-child {
+	 width: 300px;
+	 height: 600px;
+ }
