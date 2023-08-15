@@ -5,6 +5,13 @@ h1 {
 	padding: 15px;
 }
 
+h2 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 30pt;
+	text-align: center;
+	padding: 15px;
+}
+
 p {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	font-size: 20pt;
