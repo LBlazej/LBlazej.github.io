@@ -19,23 +19,16 @@ p {
 	
  }
 
-.container {
+.graphics {
 	width: 600px;
-	height: 900px;
+	height: 600px;
 	display: flex;
 	margin: 20px;
 	padding: 20px;
 	box-shadow: 7px 7px 7px 7px hsla(0,0%,85%,1);;
 }
 
- .container-child1 {
-	 display: flex;
+ .graphicimage {
 	 width: 600px;
 	 height: 600px;
- }
-
- .container-child2 {
-	 display: flex;
-	 width: 600px;
-	 height: 300px;
  }
