@@ -27,8 +27,8 @@ p {
  }
 
 .graphics {
-	width: 600px;
-	height: 600px;
+	width: 450px;
+	height: 450px;
 	display: flex;
 	margin: 20px;
 	padding: 20px;
@@ -36,6 +36,6 @@ p {
 }
 
  .graphicimage {
-	 width: 600px;
-	 height: 600px;
+	 width: 450px;
+	 height: 450px;
  }
