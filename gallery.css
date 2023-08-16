@@ -30,12 +30,12 @@ p {
 	width: 450px;
 	height: 450px;
 	display: flex;
-	margin-left: 20px auto;
-	margin-right: 20px auto;
-	margin-bottom: 20px;
-	margin-top: 20px;
-	padding: 40px;
-	box-shadow: 7px 7px 7px 7px hsla(0,0%,85%,1);;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	padding: 15px;
+	box-shadow: 10px 10px 10px 10px hsla(0,0%,85%,1);;
 }
 
  .graphicimage {
