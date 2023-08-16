@@ -30,11 +30,11 @@ p {
 	width: 450px;
 	height: 450px;
 	display: flex;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 20px auto;
+	margin-right: 20px auto;
 	margin-bottom: 20px;
 	margin-top: 20px;
-	padding: 20px;
+	padding: 40px;
 	box-shadow: 7px 7px 7px 7px hsla(0,0%,85%,1);;
 }
 
