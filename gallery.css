@@ -1,3 +1,7 @@
+body {
+	background-color: ivory;
+}
+
 img {
 	width: 350px;
 	height: 350px;
@@ -5,24 +9,29 @@ img {
 }
 
 h1 {
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: darkcyan;
+	font-family: "Tahoma";
 	font-size: 40pt;
 	text-align: center;
 	padding: 15px;
 }
-
-h2 {
+p {
+	color: cadetblue;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	font-size: 15pt;
 	text-align: center;
 	padding: 15px;
 }
 
-p {
+p.nav {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	font-size: 20pt;
 	text-align: center;
-	padding: 5px;
+	padding: 15px;
+}
+
+nav {
+
 }
 
 .flex-container {
@@ -33,6 +42,7 @@ p {
  }
 
 .graphics {
+	background-color: teal;
 	width: 350px;
 	height: 350px;
 	display: flex;
@@ -41,7 +51,7 @@ p {
 	margin-bottom: 15px;
 	margin-top: 15px;
 	padding: 15px;
-	box-shadow: 2px 4px 10px 7px hsla(0,0%,85%,1);;
+	box-shadow: 2px 2px 12px 4px hsla(180,20%,45%,1);
 }
 
  .graphicimage {
